@@ -1,0 +1,16 @@
+Balance,Transactions,Credit_Limit,Payments,kmeans,agg,cluster,persona
+4000,20,10000,3000,0,0,0,Regular User
+7000,50,15000,2000,0,0,0,Regular User
+2000,5,8000,500,2,2,2,Risky User
+9000,60,20000,4000,1,1,1,High Spender
+3000,10,9000,1500,2,2,2,Regular User
+6000,40,12000,1000,0,0,0,Regular User
+5000,30,11000,2500,0,0,0,Regular User
+8000,55,18000,3500,1,1,1,High Spender
+2500,8,8500,700,2,2,2,Risky User
+10000,70,22000,5000,1,1,1,High Spender
+4500,25,10500,2800,0,0,0,Regular User
+7200,48,16000,2100,0,0,0,High Spender
+2100,6,7800,600,2,2,2,Risky User
+8800,58,19000,4200,1,1,1,High Spender
+3200,12,9500,1700,2,2,2,Regular User
