@@ -2,7 +2,7 @@
 
 ---
 
-## **Description**  
+## **Descriptions**  
 
 This project segments credit card users into different personas using clustering and ensemble techniques. <br>
 
